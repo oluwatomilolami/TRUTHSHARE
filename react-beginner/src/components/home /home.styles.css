@@ -1,0 +1,32 @@
+.first-div{
+    display: flex;
+    padding: 10%;
+    justify-content: space-between;
+}
+.truth-div {
+    display: flex;
+    justify-content: space-between;
+   
+}
+.truth-head{
+    font-size: 50px;
+}
+.truth-para{
+    font-size: 20px;
+}
+.button-truth{
+    background-color:   #588af0;
+    height: 50px;
+    width: 25vh;
+    color: white;
+    border: none;
+    
+}
+.buttons-truth{
+    background-color:   #a377F0;
+    height: 50px;
+    width: 25vh;
+    color: white;
+    margin-left: 1.5rem;
+    border: none;
+}

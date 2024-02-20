@@ -1,0 +1,12 @@
+.heading-primary{
+    color:white;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+}
+.btnFlex{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-size: 15px;
+}

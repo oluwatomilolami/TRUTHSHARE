@@ -1,0 +1,19 @@
+.group{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.form-input{
+    background: none;
+    width: 30%;
+    height: 37px;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid white ;
+    color: white;
+    font-size: 20px;
+}
+.form-input:focus{
+    outline: none;
+}
+/* Remose the focus on the input tag using the css property */
